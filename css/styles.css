@@ -1,0 +1,9 @@
+#dos{
+	width: 480px;
+	height: 480px;
+}
+.container{
+	width: 480px;
+	height: 480px;
+	float: left;
+}
