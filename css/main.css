@@ -1,3 +1,4 @@
+@import url('http://weloveiconfonts.com/api/?family=entypo');
 body, #wrapper{
 	background: #eee;
 }
@@ -182,7 +183,7 @@ iframe{
 .subfooter{
 	color:#999;
 	background: #1a1a1a;
-	margin-top: 40px;
+	margin-top: 70px;
 }
 
 .table-responsive{
@@ -192,7 +193,7 @@ iframe{
     background-image: linear-gradient(top, #FE9A2E, #FE9A2E);*/
     overflow:hidden;
     padding:10px;
-    width:95%;
+    width:85%;
 	margin: 0 auto;
 	border: 1px red solid;
 }
@@ -228,3 +229,37 @@ iframe{
 .container{
 	padding: 10px;
 }
+
+.flipper{
+	width: 480px;
+	height: 480px;
+}
+
+/*+++++++++++++++++++++++++++++++++++++*/
+@import url('http://weloveiconfonts.com/api/?family=entypo');
+
+.social {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 0 10px;
+  line-height: 50px;
+  font-family: Entypo;
+  font-size: 28px;
+  text-align: center;
+  color: #555;
+  border-radius: 10px;
+  background: #eee;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.social {
+	border: 1px red solid;
+ }
+
+/*+++++++++Social++++++++++++++*/
+.social{
+	margin-bottom: 20px;
+
+} 
