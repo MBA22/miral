@@ -266,3 +266,18 @@ iframe{
 	margin-bottom: 20px;
 
 } 
+
+/*++++++++++++++++++++++++++++++++++*/
+#values{
+	margin: 0 auto;
+}
+
+#value{
+	border: 1px red solid;
+	margin: 0 auto;
+	margin-right: 20px;
+}
+
+.slide{
+	background: url(css\images\oficinas.jpg);
+}
