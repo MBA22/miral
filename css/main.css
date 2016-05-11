@@ -54,7 +54,6 @@ nav ul li a{
 	-o-transition: 0.4s linear all;
 	transition:0.4s linear all;
 }
-
 .navbar .navbar-default{
 	border: 1px red solid;
 }
