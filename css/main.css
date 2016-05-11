@@ -112,7 +112,7 @@ form{
 	perspective: 1000;
 }
 .flip-container, .front, .back {
-	width: 132px;
+	width: 131px;
 	height: 129px;
 	margin: 0 auto;
 }
@@ -127,14 +127,7 @@ form{
 }
 
 .front:hover{
-	-webkit-filter: blur(5px); /* Chrome, Safari, Opera */
-    filter: blur(5px);
-}
 
-.back{
-	margin-top: -18;
-	/*color: #c7471b;*/
-	background:url(../css/images/des.png);
 }
 
 .servicios{
