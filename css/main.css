@@ -78,9 +78,15 @@ nav ul li a:hover{
 	margin-bottom: 25px;
 }
 
+td{
+	height: 180px;
+	width: 150px;
+}
+
 @media screen and (max-width: 480px){
 	table, tr, tbody, td{
 		display: block;
+
 	}
 
 	table{
