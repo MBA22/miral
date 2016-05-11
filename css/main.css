@@ -114,6 +114,7 @@ form{
 .flip-container, .front, .back {
 	width: 132px;
 	height: 129px;
+	margin: 0 auto;
 }
 
 .back {
@@ -230,8 +231,8 @@ iframe{
 }
 
 .flipper{
-	width: 480px;
-	height: 480px;
+	width: 130px;
+	height: 130px;
 }
 
 /*+++++++++++++++++++++++++++++++++++++*/
