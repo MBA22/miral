@@ -217,7 +217,16 @@ iframe{
 		
 	}
 
+}
+table{
+	margin-bottom: 0 !important;
+	padding-bottom: 20px !important; 
+	border-bottom: 20px !important;
 }  
+
+.table-bordered{
+	padding: 0;
+}
 
 #link{
 	margin: 0 auto;
@@ -258,6 +267,10 @@ iframe{
 }
 .social {
 	border: 1px red solid;
+ }
+
+ tr{
+ 	border: 1px red solid;
  }
 
 /*+++++++++Social++++++++++++++*/
