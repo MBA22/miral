@@ -81,7 +81,7 @@ nav ul li a:hover{
 td{
 	height: 180px;
 	width: 150px;
-	padding: 0;
+	padding: 4px;
 }
 
 .container > td{
@@ -232,7 +232,7 @@ iframe{
     padding:10px;
     width:85%;
 	margin: 0 auto;
-	border: 1px red solid;
+	/*border: 1px red solid;*/
 }
 
 @media screen and (max-width: 720px){
@@ -330,4 +330,8 @@ table{
 
 .slide{
 	background: url(css\images\oficinas.jpg);
+}
+
+.carousel-inner{
+	margin-bottom: 20px;
 }
